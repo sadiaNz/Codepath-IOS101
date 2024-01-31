@@ -22,6 +22,26 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+### Favorite Apps and Features
+
+1. **WhatsApp:**
+   - End-to-end encryption for secure communication
+   - Group chat functionality for easy collaboration
+   - Multimedia sharing, including photos and videos
+
+2. **Evernote:**
+   - Cross-platform synchronization for seamless access
+   - Rich text editing and formatting options
+   - Organization through notebooks and tags
+
+3. **Google Maps:**
+   - Real-time navigation with traffic updates
+   - Location sharing for meeting up with friends
+   - Integration with local businesses and reviews
+
+### App Idea: Travel Companion
+
+I envision creating a Travel Companion app that goes beyond typical travel planning.
 
 ## Notes
 
